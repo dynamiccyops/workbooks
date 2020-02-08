@@ -1,4 +1,4 @@
-# Install open-vm-tools-desktop
+# Git Config
 # Eddie Rangel
 # Dynamic CyOps LLC
 # Copyright 2020
